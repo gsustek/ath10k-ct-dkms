@@ -8,12 +8,6 @@ Works fine with kernel 5.5.19 on ubuntu 20.04
 
 ### Building
 
-To build and install module manually:
-```sh
-$ make
-$ sudo make install
-```
-
 To use dkms install:
 
 ```sh
